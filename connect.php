@@ -1,7 +1,7 @@
 <?php
 
 $user = "grckanea_veljko";
-$pass = "dino2019$";
+$pass = "";
 $host = "208.82.114.172";
 $db = "grckanea_apartman";
 
